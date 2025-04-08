@@ -17,6 +17,8 @@ My name is Brighton, and I'm a senior studying applied mathematics and physics a
   <img src="https://lh3.googleusercontent.com/pw/AP1GczPsAwNZa3AIvenYx98t1-FI4LNM4odwOEAw5lKhqyPGS3kyP4jDbli5FXvPhIOudjwyOI_WBkzr-YrxAmsrTQHs579xrxVs76XqMnxLjqlHhTadp0M=w600-h315-p-k" width="1100" height="500" />
 </a>
 
+my dog theo :-)
+
 
 <!--
 **brightonar2/brightonar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
