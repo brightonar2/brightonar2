@@ -5,7 +5,7 @@
 My name is Brighton, and I'm a senior studying applied mathematics and physics at the University of Washington. I'm interested in computational biophysics and will hopefully upload research, school, and personal here in the future!
 
 <h3 align="left">Languages :pencil: :toolbox: </h3>
-<img src="./python-plain.svg" width="64" height="64" alt="Icon">
+<img src="./python-plain.svg" width="64" height="64" alt="Icon"> <img src="./cplusplus-original.svg" width="64" height="64" alt="Icon"> <img src="./matlab-original.svg" width="64" height="64" alt="Icon">
 
 <!--
 **brightonar2/brightonar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
