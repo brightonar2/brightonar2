@@ -5,12 +5,18 @@
 My name is Brighton, and I'm a senior studying applied mathematics and physics at the University of Washington. I'm interested in computational biophysics and will hopefully upload research, school, and personal here in the future!
 
 <h3 align="left">Languages :pencil: :toolbox: </h3>
-<img src="./python-plain.svg" width="64" height="64" alt="Icon"> <img src="./cplusplus-original.svg" width="64" height="64" alt="Icon"> <img src="./matlab-original.svg" width="64" height="64" alt="Icon">
+
+  <img src="./python-plain.svg" width="64" height="64" alt="Icon"> &nbsp;
+  <img src="./cplusplus-original.svg" width="64" height="64" alt="Icon"> &nbsp;
+  <img src="./matlab-original.svg" width="64" height="64" alt="Icon">
 
 
 
 
-<a href="https://lh3.googleusercontent.com/pw/AP1GczPsAwNZa3AIvenYx98t1-FI4LNM4odwOEAw5lKhqyPGS3kyP4jDbli5FXvPhIOudjwyOI_WBkzr-YrxAmsrTQHs579xrxVs76XqMnxLjqlHhTadp0M=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczPsAwNZa3AIvenYx98t1-FI4LNM4odwOEAw5lKhqyPGS3kyP4jDbli5FXvPhIOudjwyOI_WBkzr-YrxAmsrTQHs579xrxVs76XqMnxLjqlHhTadp0M=w600-h315-p-k" /> </a>
+<a href="https://lh3.googleusercontent.com/pw/AP1GczPsAwNZa3AIvenYx98t1-FI4LNM4odwOEAw5lKhqyPGS3kyP4jDbli5FXvPhIOudjwyOI_WBkzr-YrxAmsrTQHs579xrxVs76XqMnxLjqlHhTadp0M=w2400?source=screenshot.guru">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczPsAwNZa3AIvenYx98t1-FI4LNM4odwOEAw5lKhqyPGS3kyP4jDbli5FXvPhIOudjwyOI_WBkzr-YrxAmsrTQHs579xrxVs76XqMnxLjqlHhTadp0M=w600-h315-p-k" width="1100" height="500" />
+</a>
+
 
 <!--
 **brightonar2/brightonar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
