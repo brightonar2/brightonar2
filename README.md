@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! :relaxed:
+
+[![MasterHead](file:///Users/brightonr.2/Downloads/IMG_1314.jpg)](https://github.com/brightonar2)
 
 <!--
 **brightonar2/brightonar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
