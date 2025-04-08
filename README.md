@@ -1,6 +1,6 @@
 ## Hello! :relaxed:
 
-[![MasterHead](file:///Users/brightonr.2/Downloads/IMG_1314.jpg)](https://github.com/brightonar2)
+[![MasterHead]([file:///Users/brightonr.2/Downloads/IMG_1314.jpg](https://lp-cms-production.imgix.net/2019-06/3de8f3e81b11d229dfc1c19490ed0a52-university-of-washington.jpg?w=1920&h=640&fit=crop&crop=faces%2Cedges&auto=format&q=75))](https://github.com/brightonar2)
 
 <!--
 **brightonar2/brightonar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
