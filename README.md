@@ -2,7 +2,7 @@
 
 
 ## Hi! :slightly_smiling_face: :microscope: :atom:
-My name is Brighton, and I'm a senior studying applied mathematics and physics at the University of Washington. I'm interested in computational biophysics and will hopefully upload research, school, and personal projects here in the future!
+My name is Brighton, and I'm a 4th year student at the University of Washington studying applied mathematics and physics. I'm interested in computational biophysics and will hopefully upload research, school, and personal projects here in the future!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
